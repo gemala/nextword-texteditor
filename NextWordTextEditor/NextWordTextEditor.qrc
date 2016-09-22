@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/wordlist.txt</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>resources/wordlist20k</file>
+        <file>resources/wordlistf500</file>
+    </qresource>
+</RCC>
